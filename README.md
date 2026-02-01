@@ -52,6 +52,7 @@ This graph shows the error rate for different K values:
 ## 📊 Results
 
 The optimized KNN classifier provides good predictive accuracy and generalization using cross-validation.
+<img width="977" height="665" alt="knn error rate  image " src="https://github.com/user-attachments/assets/858d2a07-b895-4885-915b-588d6f69a8e4" />
 
 
 ## 🚀 How to Run the Project
