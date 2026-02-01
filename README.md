@@ -4,16 +4,12 @@
 This project focuses on predicting whether a loan will be approved based on applicant details using Machine Learning.  
 It applies data preprocessing techniques and the K-Nearest Neighbors (KNN) algorithm to build a reliable classification model.
 
----
-
 ## 🛠 Technologies Used
 - Python  
 - Pandas  
 - NumPy  
 - Matplotlib  
 - Scikit-learn  
-
----
 
 ## 📂 Dataset
 The dataset contains applicant information such as:
@@ -26,10 +22,9 @@ The dataset contains applicant information such as:
 - Applicant Income  
 - Loan Amount  
 - Credit History  
-- Loan Status  
+- Loan Status
 
----
-
+  
 ## 🔍 Project Workflow
 
 1. Data loading and inspection  
@@ -42,15 +37,11 @@ The dataset contains applicant information such as:
 8. Cross-validation  
 9. Hyperparameter tuning using Elbow Method  
 
----
-
 ## 📈 Elbow Method for Optimal K Value
 
 This graph shows the error rate for different K values:
 
 ![KNN Error Rate](knn_error_rate.png)
-
----
 
 ## ✅ Model Performance
 
@@ -58,13 +49,10 @@ This graph shows the error rate for different K values:
 - Testing Accuracy: (add your value)  
 - Cross Validation Accuracy: (add your value)  
 
----
-
 ## 📊 Results
 
 The optimized KNN classifier provides good predictive accuracy and generalization using cross-validation.
 
----
 
 ## 🚀 How to Run the Project
 
